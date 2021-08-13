@@ -14,7 +14,7 @@
   array (
     'type' => 'mysql',
     'tablePre' => 'tiny_',
-    'host' => '127.0.0.1',
+    'host' => '127.0.0.11',
     'port' => '3306',
     'user' => 'root',
     'password' => 'Admin123.',
